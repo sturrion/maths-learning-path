@@ -16,7 +16,7 @@ MIT on ocw.
 MIT on ocw.  
 
 ## After Multivariable Calculus:
-* [Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/index.htm) :white_medium_square:
+* [Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/index.htm) :white_medium_square:  
 MIT on ocw.  
 * [Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/index.htm) :white_medium_square:  
 MIT on ocw.  
