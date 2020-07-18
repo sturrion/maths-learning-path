@@ -1,4 +1,4 @@
-Last Updated: March 26, 2017
+Last Updated: December 10, 2019
 
 # Maths learning path
 This is my maths learning path.
