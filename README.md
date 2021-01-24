@@ -8,6 +8,12 @@ This is my maths learning path.
 MIT on ocw.  
 * [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm) :white_medium_square:  
 MIT on ocw.  
+Textbook: [Introduction to Linear Algebra](http://math.mit.edu/~gs/linearalgebra/), Fifth Edition (2016)  
+
+## After Linear Algebra:
+* [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/index.htm) :white_medium_square:  
+MIT on ocw.  
+Textbook: [Linear Algebra and Learning from Data](http://math.mit.edu/~gs/learningfromdata/) (2019)  
 
 ## After Single Variable Calculus:
 * [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) :white_medium_square:  
